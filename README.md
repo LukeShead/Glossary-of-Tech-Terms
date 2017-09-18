@@ -4,6 +4,26 @@
 
 ### What are SCRUMS?
 
-#### SCRUM is a term derived from Rugby, Scrum in rugby is the act of all players working together to succeed at their task at collecting the ball and pushing the other team back. Scrumming a project in IT businness is not much different except instead of physically overthrowing your opponents with your team, you overthrow and slove problems with a team. Each person helps out with all the work that people have to allow projects to be finished quicker and with more efficiency.
+#### First thing you need to know is that scrum is not an acronym. SCRUM is a term derived from Rugby, Scrum in rugby is the act of all players working together to succeed at their task at collecting the ball and pushing the other team back. Scrumming a project in IT businness is not much different except instead of physically overthrowing your opponents with your team, you overthrow and slove problems with a team. Each person helps out with all the work that people have to allow projects to be finished quicker and with more efficiency.
 
-### There are some 
+### There are some key terms that must be known when Scrumming projects, here are 10 of them for you now:
+
+#### 1.
+
+#### 2.
+
+#### 3.
+
+#### 4.
+
+#### 5.
+
+#### 6.
+
+#### 7.
+
+#### 8.
+
+#### 9.
+
+#### 10.
