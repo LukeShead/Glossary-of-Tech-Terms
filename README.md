@@ -8,7 +8,7 @@
 
 ### There are some key terms that must be known when Scrumming projects, here are 10 of them for you now:
 
-#### 1.
+#### 1: Sprint- When a scrum project has a sprint, it means that the project has a time limit of less than 30 days, projects usually have sprints when the customer has ordered an item that has to be developed, for example if the customer wants a website with certain functions. A sprint means that the project can be completed in time, most projects in the workplace will be sprinted for efficiency. 
 
 #### 2.
 
