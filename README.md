@@ -12,17 +12,17 @@
 
 #### 2. Sprint backlog- The sprint backlog is the information that the team uses to look at the development of the project in order to receive the 'Sprint goal', it is usually the work needed to be able to present the correct functions to the customer. The backlog is used to help the team understand what they need to do and use before it is finished.
 
-#### 3. Sprint Goal- 
+#### 3. Sprint Goal- The sprint goal is simply put, the purpose of the sprint, its the goal that the team are trying to achieve. The sprinted scrum project all works towards the sprint goal and it does not deviate from it.
 
-#### 4. Velocity-
+#### 4. Velocity- It is often used in projects to keep track on how well the team is doing and how the team is progressing in comparison to the time frame that the project has, this will usually be kept track by the scrum master.
 
-#### 5. Stakeholder-
+#### 5. Stakeholder- This is someone that is not in the team but is from an external source, this person will usually make appearences to keep an eye on the project and the development.
 
-#### 6. Scrum Master-
+#### 6. Scrum Master- This is the person of the team that supervises the project, they will allocate jobs and host the meetings that take place, this person has the most amount of work to do as they have their own jobs as well as making sure other jobs are done also.
 
-#### 7. Product backlog-
+#### 7. Product backlog- This is the list of jobs that the team have to complete in order to complete the project, this is run by the product owner and it helps the product go smoothly.
 
-#### 8. Burn up chart-
+#### 8. Burn up chart-  
 
 #### 9. Product owner-
 
