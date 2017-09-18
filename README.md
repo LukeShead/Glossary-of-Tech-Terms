@@ -10,20 +10,20 @@
 
 #### 1: Sprint- When a scrum project has a sprint, it means that the project has a time limit of less than 30 days, projects usually have sprints when the customer has ordered an item that has to be developed, for example if the customer wants a website with certain functions. A sprint means that the project can be completed in time, most projects in the workplace will be sprinted for efficiency. 
 
-#### 2.
+#### 2. Sprint backlog- The sprint backlog is the information that the team uses to look at the development of the project in order to receive the 'Sprint goal', it is usually the work needed to be able to present the correct functions to the customer. The backlog is used to help the team understand what they need to do and use before it is finished.
 
-#### 3.
+#### 3. Sprint Goal- 
 
-#### 4.
+#### 4. Velocity-
 
-#### 5.
+#### 5. Stakeholder-
 
-#### 6.
+#### 6. Scrum Master-
 
-#### 7.
+#### 7. Product backlog-
 
-#### 8.
+#### 8. Burn up chart-
 
-#### 9.
+#### 9. Product owner-
 
-#### 10.
+#### 10. Scrum Team-
