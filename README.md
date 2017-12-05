@@ -1,6 +1,6 @@
 # Glossary-of-Tech-Terms
 
-## First things first:
+## First off:
 
 ### What are SCRUMS?
 
@@ -16,7 +16,7 @@
 
 #### 4. Velocity- It is often used in projects to keep track on how well the team is doing and how the team is progressing in comparison to the time frame that the project has, this will usually be kept track by the scrum master.
 
-#### 5. Stakeholder- This is someone that is not in the team but is from an external source, this person will usually make appearances to keep an eye on the project and the development.
+#### 5. Algorythm- An algorithm or procedure is a set of instructions to for the computer to run and follow, i when using coding, the algorithm is what tells the computer the steps to take to to reach the end goal of the program. There are inputs that are called ingredients, and there are outputs called results. By having these ingredients it is what builds an application, having the algorithm the application can be built successfully.
 
 #### 6. Scrum Master- This is the person of the team that supervises the project, they will allocate jobs and host the meetings that take place, this person has the most amount of work to do as they have their own jobs as well as making sure other jobs are done also.
 
@@ -26,6 +26,4 @@
 
 #### 9. Product owner- This is the role in the team that has the job of increasing and maximizing the value in an item, for example adding more functions or advertising using business.
 
-#### 10. Scrum Team- This may be simple, but it is the most important part of a scrum, this is the team that will complete this project, now this will involve the whole team and everyone will have their own jobs within the project that they can all trust each other to complete and work together to finish the project on time, all of this means that the projects can be successful and the customer can be satisfied. 
-
-### After all that is the whole point of a scrum project.
+#### 10. Scrum Team- This may be simple, but it is the most important part of a scrum, this is the team that will complete this project, this will involve the whole team and everyone will have their own jobs within the project that they can all trust each other to complete and work together to finish the project on time, all of this means that the projects can be successful and the customer can be satisfied.
