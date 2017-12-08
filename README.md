@@ -16,7 +16,7 @@
 
 #### 4. Velocity- It is often used in projects to keep track on how well the team is doing and how the team is progressing in comparison to the time frame that the project has, this will usually be kept track by the scrum master.
 
-#### 5. Algorythm- An algorithm or procedure is a set of instructions to for the computer to run and follow, i when using coding, the algorithm is what tells the computer the steps to take to to reach the end goal of the program. There are inputs that are called ingredients, and there are outputs called results. By having these ingredients it is what builds an application, having the algorithm the application can be built successfully.
+#### 5. Algorythm- An algorithm or procedure is a set of instructions to for the computer to run and follow, i when using coding, the algorithm is what tells the computer the steps to take to to reach the end goal of the program. There are inputs that are called ingredients, and there are outputs called results. The ingredients are what the designer inputs, the results are what the program outputs, all of this is needed to successfully build an application.
 
 #### 6. Scrum Master- This is the person of the team that supervises the project, they will allocate jobs and host the meetings that take place, this person has the most amount of work to do as they have their own jobs as well as making sure other jobs are done also.
 
