@@ -18,7 +18,7 @@
 
 #### 5. Algorythm- An algorithm or procedure is a set of instructions to for the computer to run and follow, i when using coding, the algorithm is what tells the computer the steps to take to to reach the end goal of the program. There are inputs that are called ingredients, and there are outputs called results. The ingredients are what the designer inputs, the results are what the program outputs, all of this is needed to successfully build an application.
 
-#### 6. Scrum Master- This is the person of the team that supervises the project, they will allocate jobs and host the meetings that take place, this person has the most amount of work to do as they have their own jobs as well as making sure other jobs are done also.
+#### 6. Program Paradigms- A paradigm is way to classify what type of features a programming language has, there are 3 main paradigms. Procedural, Object-Oriented and Event-Driven. The procedural 
 
 #### 7. Product backlog- This is the list of jobs that the team have to complete in order to complete the project, this is run by the product owner and it helps the product design stages go smoothly.
 
