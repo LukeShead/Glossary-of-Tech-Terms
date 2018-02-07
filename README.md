@@ -32,6 +32,8 @@ An algorithm or procedure is a set of instructions to for the computer to run an
 ### 6. Program Paradigms- 
 A paradigm is way to classify what type of features a programming language has, there are 3 main paradigms. Procedural, Event Driven and Object oriented programming. The procedural type of programming is where the program runs on its own without any input, this means that once started, the program will not change what it is doing, until it finishes its task. Object oriented is programs that are based around objects and have interactions with those in order to comeplete its task. The last is the Event driven programmming, this is the form of programming that will constantly look for some form of input from the user, for example an input of a mouse click, or key press.
 
+Each paragrims have unique properties to them, because of this it means that projects are best suited being classified towards a certain one, for example if a game is to be built, it will be event driven as it requires inputs. Because of this, the 3 paragrims are always being used, the three are not better than each other it is purely down the type of application that is being built.
+
 ### 7. Product backlog- 
 This is the list of jobs that the team have to complete in order to complete the project, this is run by the product owner and it helps the product design stages go smoothly.
 
