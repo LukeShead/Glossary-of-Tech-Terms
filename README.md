@@ -42,11 +42,17 @@ This is a chart that shows the amount of work that is currently being completed 
 
 ### 9. Steps from writing to execution-
 
-1. A planning step, this usually includes a flowchart or gantt chart and will show how the project will pan out and how it will function.
+1. A planning step, this usually includes a flowchart and will show how the project will pan out and how it will function.
 
 2. This is where all of the functions are planned, whatever they are, their use will be used within the project so it is important to get the functions planned properly by the end of this step. This is where the flowchart comes into use the most as it outlines the functions the best.
 
-3. 
+3. After everything has been planned, it's then the step of implementing the functions and algorythm into the project, this step will follow the flowchart in how it is built, following the steps in order to make it work properly. However, this step can be very different depending on the type of software development model the team have chosen.
+
+4. After it is all built and tested it is but into a compilier that will convert it to a low-level language that can make it easier for the system to run.
+
+5. There is a link tool that is used to take all the parts of the code and link them all for execution.
+
+6. The program executes after being loaded into the memory by the loader.
 
 ### 10. Scrum Team- 
 This may be simple, but it is the most important part of a scrum, this is the team that will complete this project, this will involve the whole team and everyone will have their own jobs within the project that they can all trust each other to complete and work together to finish the project on time, all of this means that the projects can be successful and the customer can be satisfied.
