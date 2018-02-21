@@ -42,7 +42,17 @@ The third and final step is the testing step, this can be started as the applica
 If these steps are done properly the application that is built will be much more successful than if one of these steps were rushed. 
 
 ### 6. Program Paradigms- 
-A paradigm is way to classify what type of features a programming language has, there are 3 main paradigms. Procedural, Event Driven and Object oriented programming. The procedural type of programming is where the program runs on its own without any input, this means that once started, the program will not change what it is doing, until it finishes its task. Object oriented is programs that are based around objects and have interactions with those in order to comeplete its task. The last is the Event driven programmming, this is the form of programming that will constantly look for some form of input from the user, for example an input of a mouse click, or key press.
+
+A paradigm is way to classify what type of features a programming language has, there are 3 main paradigms. Procedural, Event Driven and Object oriented programming.
+
+#### Procedural
+The procedural type of programming is where the program runs on its own without any input, this means that once started, the program will not change what it is doing, until it finishes its task. This usually is used for an application that runs in the background of systems or has specific tasks that cannot be changed without hindering something else. For example an anti-malware system can provide protection to a computer after it has been run and doesnt require any input from the user in order to keep checking for malware.
+
+#### Object oriented
+Object oriented is programs that are based around objects and have interactions with those in order to comeplete its task. This can be related to building a car, the object would be the car itself, the functions would be the components to build the car, for example the wheels of the car could be the number or interger value which would most likely return 4 for a standard car. The next component would be the car engine, this would be defined by an engine type and would give either deisel or petrol back to the user in order to show what it needs. With all the functions within the object of the car, together the obk
+
+#### Event driven
+The last is the Event driven programmming, this is the form of programming that will constantly look for some form of input from the user, for example an input of a mouse click, or key press.
 
 Each paragrims have unique properties to them, because of this it means that projects are best suited being classified towards a certain one, for example if a game is to be built, it will be event driven as it requires inputs. Because of this, the 3 paragrims are always being used, the three are not better than each other it is purely down the type of application that is being built.
 
