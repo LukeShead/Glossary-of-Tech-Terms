@@ -26,7 +26,7 @@ This is the theory that there is either satisfaction or dissatisfaction within a
 ### 4. Velocity- 
 It is often used in projects to keep track on how well the team is doing and how the team is progressing in comparison to the time frame that the project has, this will usually be kept track by the scrum master.
 
-### 5. Algorythm- 
+### 5. Algorithm- 
 An algorithm or procedure is a set of instructions to for the computer to run and follow, I when using coding, the algorithm is what tells the computer the steps to take to to reach the end goal of the program. There are inputs that are called ingredients, and there are outputs called results. The ingredients are what the designer inputs, the results are what the program outputs, all of this is needed to successfully build an application.
 
 #### The algorithm/steps of building an application
