@@ -49,12 +49,16 @@ A paradigm is way to classify what type of features a programming language has, 
 The procedural type of programming is where the program runs on its own without any input, this means that once started, the program will not change what it is doing, until it finishes its task. This usually is used for an application that runs in the background of systems or has specific tasks that cannot be changed without hindering something else. For example an anti-malware system can provide protection to a computer after it has been run and doesnt require any input from the user in order to keep checking for malware.
 
 #### Object oriented
-Object oriented is programs that are based around objects and have interactions with those in order to comeplete its task. This can be related to building a car, the object would be the car itself, the functions would be the components to build the car, for example the wheels of the car could be the number or interger value which would most likely return 4 for a standard car. The next component would be the car engine, this would be defined by an engine type and would give either deisel or petrol back to the user in order to show what it needs. With all the functions within the object of the car, together the obk
+Object oriented is programs that are based around objects and have interactions with those in order to comeplete its task. This can be related to building a car, the object would be the car itself, the functions would be the components to build the car, for example the wheels of the car could be the number or interger value which would most likely return 4 for a standard car. The next component would be the car engine, this would be defined by an engine type and would give either deisel or petrol back to the user in order to show what it needs. With all the functions within the object of the car, the object known as car will be created, this object can now be altered and used to allow a program to run. 
 
 #### Event driven
-The last is the Event driven programmming, this is the form of programming that will constantly look for some form of input from the user, for example an input of a mouse click, or key press.
+The last is the Event driven programmming, this is the form of programming that will constantly look for some form of input from the user, for example an input of a mouse click, or key press. These are programs that require some interactive features in order to be successful, this can include a game, quiz or just a general slide show that requries input to change slides. With this kind of program being the most common as it can keep the user more entertained than others. 
 
-Each paragrims have unique properties to them, because of this it means that projects are best suited being classified towards a certain one, for example if a game is to be built, it will be event driven as it requires inputs. Because of this, the 3 paragrims are always being used, the three are not better than each other it is purely down the type of application that is being built.
+#### Relationships between them
+
+Each paragrims have unique properties to them, because of this it means that projects are best suited being classified towards a certain one, for example if a game is to be built, it will be event driven as it requires inputs. However for a software to run in the background of a PC like an anti-malware software it will be procedural. Because of this, the 3 paragrims are always being used, the three are not better than each other it is purely down the type of application that is being built.
+
+
 
 ### 7. Product backlog- 
 This is the list of jobs that the team have to complete in order to complete the project, this is run by the product owner and it helps the product design stages go smoothly.
