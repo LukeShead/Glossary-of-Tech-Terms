@@ -36,13 +36,17 @@ The steps of building an application usually follow the same algorithm,
 ##### Planning
 The first step is usually planning, this is where the creator or team will come together to get an idea or problem, by first finding these it means that the project will have a clear direction in the development stage. Along with getting the idea it will also be the application itself and how it will function, for example flowcharts may be made in order for a team to fully understand how the app will function and what steps it will need to follow. This will usually take the most amount of time in the whole application build process as it is where many of the functions must be looked at, as well as some being added and removed based on how helpful they are to the application. 
 
-This step can be broken down into many other steps, for example having 
-
 The second step is the development process, this is where the creator or team will start to build the algorithm for the application, this can start in many ways and can use many different forms of methods to help the developers build it easier. It will usually start with prototypes of the application and depending on the development model that the developers are using, they will continue with the next part of the developing process. If they are following a model like waterfall then they will probably continue to develop the first part of the application before moving on, however if they are following a RAD model they will most likely prototype the application again. This step can be done in many ways and it will differ depending on the team and the skills they posess.
 
 The third step is the testing step, this can be started as the application is almost finished, or it can be done as it is just starting development, however it is done, it is about debugging the application and making sure any errors that are made are looked at and are dealt with before the application is finished. Some teams will test and debug as the application is being build between each stage of the development process whereas others will use the time at the end of the development process to debug it all at once. However it is done it is the most important part once the development is complete as this is making sure that the application works properly and stops any bugs from ruining the application for the users.
 
-The fourth step is 
+These steps can all be broken down into their own respective stages, the stages can include:
+
+Input/Output,
+Variables,
+Repitition,
+Decisions,
+Data Structures,
 
 
 If these steps are done properly the application that is built will be much more successful than if one of these steps were rushed. 
