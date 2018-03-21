@@ -63,10 +63,7 @@ The last is the Event driven programmming, this is the form of programming that 
 
 #### Relationships between them
 
-Each paradigms have unique properties to them, because of this it means that projects are best suited being classified towards a certain one, for example if a game is to be built, it will be event driven as it requires inputs. However for a software to run in the background of a PC like an anti-malware software it will be procedural. Because of this, the 3 paradigms are always being used, the three are not better than each other it is purely down the type of application that is being built. 
-
-Some software can use two paradigms and not just one, for example an object oriented program can also be an event driven program, this is because the programs can have properties of more than one allowing it to be involved with more than one. This can also be said for procedural programs being object oriented, however the two that will not be seen together in a single program is procedural and event-driven. The reason for this is because of how much they contrast each other, the procedural would require no input from the user whereas the event-driven requires input from the user, this means that the user cannot do both nothing and something, because of this programs cannot have both paradigms in one.
-
+When looking at all program paradigms all of the programs that these come under will all do some things the exact same, some examples of this are that they all give inputs and output, they all use variables, they all have forms of repitition within them, they all can have decisions within them and all of them use structures of data in order to function, this means that each one does the same thing when creating programs. This is where the relationship can come between them, as all of them can be used for the same things. One program can be built to do the same thing however depending on how it is built it can be all 3 of them. Lastly, the biggest relationship between paradigms is that they are all used for the same thing, every program that is made no matter what paradigm it is made from can be used to solve problems, as all program's functions are too solve problems that people have all of them have this relationship. 
 
 
 ### 7. Product backlog- 
