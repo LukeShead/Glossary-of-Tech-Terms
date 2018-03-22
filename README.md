@@ -74,7 +74,15 @@ This is a chart that shows the amount of work that is currently being completed 
 
 ### 9. Steps from writing to execution-
 
+#### Idea
+This is the step in which the problem is shown to the team whether it be from the team or from a client, the team will plan a solution to the problem and will make sure that all the problems are solved with it. The way to find the solution can be done through many methods such as system analysis.
+
+#### Planning
+This is the step in which the solution is looked
+
 1. A planning step, this usually includes a flowchart and will show how the project will pan out and how it will function.
+
+2. 
 
 2. This is where all of the functions are planned, whatever they are, their use will be used within the project so it is important to get the functions planned properly by the end of this step. This is where the flowchart comes into use the most as it outlines the functions the best.
 
