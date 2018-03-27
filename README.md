@@ -84,7 +84,7 @@ This is the step in which the solution is looked at in more detail, all of the d
 This is the step in which the developers of the project will start working on implementing and developing the solution to the problem, the team will stick to a certain schedule or design model to accomplish this and each team will usually have a unique reasons for using certain models or methods. The algorithm will be implemented within it and the procedures will be given to the solution.
 
 #### Testing
-This is where the team have finished developing the solution and will start making its way.
+This is where the team are developing the algorithm and testing starts within it, when creating programs with code, testing is always a constant in the development process as it is to make sure that the part of the algorithm that has been designed will work correctly. 
 
 4. After it is all built and tested it is but into a compilier that will convert it to a low-level language that can make it easier for the system to run.
 
