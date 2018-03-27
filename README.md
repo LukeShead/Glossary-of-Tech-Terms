@@ -78,15 +78,13 @@ This is a chart that shows the amount of work that is currently being completed 
 This is the step in which the problem is shown to the team whether it be from the team or from a client, the team will plan a solution to the problem and will make sure that all the problems are solved with it. The way to find the solution can be done through many methods such as system analysis.
 
 #### Planning
-This is the step in which the solution is looked
+This is the step in which the solution is looked at in more detail, all of the different aspects of the solution are looked at, this can include the cost, scope, time, quality, communication, risk and resources of a project solution. This is usually done through a feasibility report or some type of plan that can be used to look at all of these.
 
-1. A planning step, this usually includes a flowchart and will show how the project will pan out and how it will function.
+#### Implementation
+This is the step in which the developers of the project will start working on implementing and developing the solution to the problem, the team will stick to a certain schedule or design model to accomplish this and each team will usually have a unique reasons for using certain models or methods. The algorithm will be implemented within it and the procedures will be given to the solution.
 
-2. 
-
-2. This is where all of the functions are planned, whatever they are, their use will be used within the project so it is important to get the functions planned properly by the end of this step. This is where the flowchart comes into use the most as it outlines the functions the best.
-
-3. After everything has been planned, it's then the step of implementing the functions and algorythm into the project, this step will follow the flowchart in how it is built, following the steps in order to make it work properly. However, this step can be very different depending on the type of software development model the team have chosen.
+#### Testing
+This is where the team have finished developing the solution and will start making its way.
 
 4. After it is all built and tested it is but into a compilier that will convert it to a low-level language that can make it easier for the system to run.
 
