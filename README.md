@@ -69,7 +69,7 @@ The last is the Event driven programming, this is the form of programming that w
 
 Event-driven is about using events in order to trigger functions that will help the algorithm progress, these events can be triggered by any form of input from the user, or by an action within the algorithm being run. Events will be used for progression with the algorithm and will start functions when functions within the program.
 
-Some characteristics of event-driven programs is that they can use a feature called service oriented to allow less processing power to be used within the program and save memory, as well as this it can be time driven, this means that it can look at a program and make a specific function run at a certain timestamp, for example every hour or every minute.
+Some characteristics of event-driven programming is that it can be time driven, this means that it can look at a program and make a specific function run at a certain timestamp, for example every hour or every minute. As well as this the program will only run what the user wants to as it runs functions based on what the user has inputted into the system, this means it is more favourable for controlled systems.
 
 #### Relationships between them
 
